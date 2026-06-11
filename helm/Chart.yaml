@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-guideline-compliance
+description: "BIAN Service Domain: Guideline Compliance (Monitor pattern, Risk and Compliance)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - monitor
+annotations:
+  bian/business-area: "Risk and Compliance"
+  bian/business-domain: "Compliance"
+  bian/asset-type: "Compliance Check"
+  bian/control-record: "Compliance Check Monitoring State"
